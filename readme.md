@@ -1,6 +1,6 @@
 
 Hello!
-- [Quiz](https://quiz.adriansoftware.de/) mit *Backend:* **Laravel (PHP 7)**. *Frontend:* **Alpine.js** + **Bulma** CSS-Framework.
+- [Quiz](https://quiz.adriansoftware.de/) mit *Backend:* **Laravel**. *Frontend:* **Alpine.js** + **Bulma** CSS-Framework.
   <details>
     <summary>Screenshots</summary>
   
