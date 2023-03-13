@@ -8,7 +8,7 @@ Hello!
   
   </details>
 
-[ufpp](https://github.com/adrianschubek/utpp)|[dir-browser](https://github.com/adrianschubek/dir-browser)
+[utpp](https://github.com/adrianschubek/utpp)|[dir-browser](https://github.com/adrianschubek/dir-browser)
 :---:|:---:
 [![](https://github.com/adrianschubek/utpp/blob/main/utpp.png)](https://github.com/adrianschubek/utpp)     |   [![](https://github.com/adrianschubek/dir-browser/blob/main/dir-browser.png)](https://github.com/adrianschubek/dir-browser)
 
