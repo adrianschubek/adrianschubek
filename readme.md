@@ -9,7 +9,9 @@ Hello! 👋
   
   </details> -->
 Checkout my latest (work-in-progress) project: An airline management game. Like Flightradar but as a game!
-[<img src="https://github.com/adrianschubek/adrianschubek/assets/19362349/c5adc8e1-8546-40dd-a8c5-c504aaa24020">](https://fly.w101.de)
+
+[![](https://github.com/adrianschubek/adrianschubek/assets/19362349/c5adc8e1-8546-40dd-a8c5-c504aaa24020)](https://fly.w101.de)
+
 #### Play it here [fly.w101.de](https://fly.w101.de)
 
 [utpp](https://utpp.adriansoftware.de)|[dir-browser](https://dir.adriansoftware.de)|
