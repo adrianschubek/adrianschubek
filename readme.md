@@ -9,7 +9,8 @@ Hello! 👋
   
   </details> -->
 <hr/>
-Checkout my latest (work-in-progress) project: An airline management game. Like Flightradar but as a game!
+Checkout my latest (work-in-progress) project: An airline management game. Create and manage your airline. Build routes, buy aircraft, and see them on the multi-player map in real-time. Like Flightradar but as a game! 
+
 
 [![](https://github.com/adrianschubek/adrianschubek/assets/19362349/b3ddc704-4ce9-4303-b8d0-9a730dfbd23c)](https://fly.w101.de)
 
