@@ -21,6 +21,8 @@ Checkout my latest (work-in-progress) project: An airline management game. Creat
 :---:|:---:
 [![](https://github.com/adrianschubek/utpp/blob/main/utpp.png)](https://utpp.adriansoftware.de) | [![](https://user-images.githubusercontent.com/19362349/235147277-d57df505-33b8-4127-a3b9-abf6ad10633d.png)](https://dir.adriansoftware.de)
 
+- [react-native-paper-fastalerts](https://github.com/adrianschubek/react-native-paper-fastalerts)
+
 - [waldbrandpraevention/frontend](https://github.com/waldbrandpraevention/frontend)
 - [waldbrandpraevention/wind](https://github.com/waldbrandpraevention/wind)
 - [quiz-laravel](https://github.com/adrianschubek/quiz-laravel)
