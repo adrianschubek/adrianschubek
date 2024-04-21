@@ -17,11 +17,11 @@ Checkout my latest (work-in-progress) project: An airline management game. Creat
 **Play it here [fly.w101.de](https://fly.w101.de)**
 <hr/>
 
-[utpp](https://utpp.adriansoftware.de)|[dir-browser](https://dir.adriansoftware.de)|
+[CogniCrew](https://github.com/adrianschubek/cognicrew)|[dir-browser](https://dir.adriansoftware.de)|
 :---:|:---:
-[![](https://github.com/adrianschubek/utpp/blob/main/utpp.png)](https://utpp.adriansoftware.de) | [![](https://user-images.githubusercontent.com/19362349/235147277-d57df505-33b8-4127-a3b9-abf6ad10633d.png)](https://dir.adriansoftware.de)
+[![](https://raw.githubusercontent.com/adrianschubek/cognicrew/main/assets/Logo.svg)](https://github.com/adrianschubek/cognicrew) | [![](https://user-images.githubusercontent.com/19362349/235147277-d57df505-33b8-4127-a3b9-abf6ad10633d.png)](https://dir.adriansoftware.de)
 
-- [cognicrew](https://github.com/adrianschubek/cognicrew)
+- [utpp](https://utpp.adriansoftware.de)
 
 - [react-native-paper-fastalerts](https://github.com/adrianschubek/react-native-paper-fastalerts)
 
