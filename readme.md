@@ -19,7 +19,8 @@ Checkout my latest (work-in-progress) project: An airline management game. Creat
 
 [CogniCrew](https://github.com/adrianschubek/cognicrew)|[dir-browser](https://dir.adriansoftware.de)|
 :---:|:---:
-[![](https://raw.githubusercontent.com/adrianschubek/cognicrew/main/assets/Logo.svg)](https://github.com/adrianschubek/cognicrew) | [![](https://user-images.githubusercontent.com/19362349/235147277-d57df505-33b8-4127-a3b9-abf6ad10633d.png)](https://dir.adriansoftware.de)
+[![](https://raw.githubusercontent.com/adrianschubek/cognicrew/main/assets/Logo.svg)](https://github.com/adrianschubek/cognicrew) | [![](https://user-images.githubusercontent.com/19362349/235147277-d57df505-33b8-4127-a3b9-abf6ad10633d.png)](https://dir.adriansoftware.de) [![image](https://github.com/adrianschubek/adrianschubek/assets/19362349/473a2ee2-0c18-477d-a04c-f6e09df7c716)](https://dir.adriansoftware.de)
+
 
 - [utpp](https://utpp.adriansoftware.de)
 
