@@ -15,6 +15,8 @@ Checkout my latest (work-in-progress) project: An airline management game. Creat
 [![](https://github.com/adrianschubek/adrianschubek/assets/19362349/b3ddc704-4ce9-4303-b8d0-9a730dfbd23c)](https://fly.w101.de)
 
 **Play it here [fly.w101.de](https://fly.w101.de)**
+
+*Built with TypeScript, React, Next.js, Postgres, Redis, next-auth, Prisma, Docker.*
 <hr/>
 
 [CogniCrew](https://github.com/adrianschubek/cognicrew)|[dir-browser](https://dir.adriansoftware.de)|
