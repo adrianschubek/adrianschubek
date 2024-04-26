@@ -16,7 +16,7 @@ Checkout my latest (work-in-progress) project: An airline management game. Creat
 
 **Play it here [fly.w101.de](https://fly.w101.de)**
 
-*Built with TypeScript, React, Next.js, Postgres, Redis, next-auth, Prisma, MUI, Docker.*
+*Built with TypeScript, React, Next.js, Postgres, Redis, tRPC, next-auth, Prisma, MUI, Docker.*
 <hr/>
 
 [CogniCrew](https://github.com/adrianschubek/cognicrew)|[dir-browser](https://dir.adriansoftware.de)|
